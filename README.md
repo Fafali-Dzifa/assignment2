@@ -14,3 +14,4 @@ To run the code just type the following usage:
 python detect_faces.py --face cascades/haarcascade_frontalface_default.xml --image images/test.png
 
 
+ 
